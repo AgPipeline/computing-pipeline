@@ -13,7 +13,7 @@ These are original links to the TERRA REF project.
 Please refer to the TERRA REF project for additional information.
 
 * [Website](https://terraref.org)
-* email: dlebauer@illinois.edu
+* email: dlebauer@arizona.edu
 * [GitHub Issues](https://github.com/terraref/computing-pipeline/issues)
 
 To provide input on reference data products and support for existing standards and software, please visit the [Reference Data GitHub repository](https://github.com/terraref/reference-data).
