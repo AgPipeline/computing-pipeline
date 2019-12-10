@@ -15,7 +15,9 @@ Please choose one of the following:
 - [ ] Documentation is broken, inaccurate, or out of date
 
 **What needs to be done**
-Please let us know what the question, problem, or need is
+Please let us know your question, problem, or need. 
+What do you want to do, and what have you tried so far? 
+What specific parts of the documentation need to be clarified or extended?
 
 **Result**
 What's the result of doing this documentation task
