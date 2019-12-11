@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Documentation Request Type**
-<!-- if there's more than one request type, please consider adding multiple tickets -->
+<!-- For multiple requests, please submit one ticket per issue -->
 Please choose one of the following:
 - [ ] New documentation
 - [ ] Documentation needs enhancement or clarification
