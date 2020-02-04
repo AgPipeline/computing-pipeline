@@ -18,7 +18,7 @@ High level description of your changes, for example:
 * Does it close an open issue? (if so, please link; otherwise describe the problem that it solves) 
 * Have you tested the changes?
 * Provide a link to all issues that this pull request directly addresses (no need to add tickets to already merged, or merge requested, changes)
-* Provide any meaningful links and references to documentation, code, etc that's not included in this pull request
+* Provide any meaningful links and references to documentation, code, etc to better understand this pull request
 -->
 
 ## Types of changes
