@@ -9,8 +9,6 @@ assignees: ''
 <!--- Please select appropriate Priority, Status,and Type labels -->
 <!--- If you do not have permission to select labels please state which labels you would like -->
 
-<!--- please select one or more relevant tags --->
-
 ## Description
 <!--- 
 High level description of your changes, for example:
